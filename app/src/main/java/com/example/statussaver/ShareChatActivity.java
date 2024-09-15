@@ -31,7 +31,6 @@ public class ShareChatActivity extends AppCompatActivity {
     }
 
     private void getShareChatData() {
-
         URL url = null;
         try {
             url = new URL(binding.sharechatUrl.getText().toString());

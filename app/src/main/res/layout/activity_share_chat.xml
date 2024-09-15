@@ -46,13 +46,18 @@
             android:layout_height="wrap_content"
             android:padding="16dp"
             android:id="@+id/input"
+            app:boxStrokeColor="@color/black"
+            app:hintTextColor="@color/black"
+
             >
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/sharechat_url"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Url Here" />
+                android:textColorHint="@color/black"
+                android:outlineAmbientShadowColor="@color/black"
+                android:hint="Paste your URL" />
 
 
 

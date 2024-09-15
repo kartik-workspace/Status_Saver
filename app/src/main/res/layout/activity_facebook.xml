@@ -46,6 +46,8 @@
                 android:layout_height="wrap_content"
                 android:padding="16dp"
                 android:id="@+id/input"
+                app:boxStrokeColor="@color/black"
+                app:hintTextColor="@color/black"
                 >
 
                 <com.google.android.material.textfield.TextInputEditText
