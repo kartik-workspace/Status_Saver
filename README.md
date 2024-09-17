@@ -1,2 +1,3 @@
-Main Screen
-![main_screen](https://github.com/user-attachments/assets/4c850196-1c91-4e81-ae10-77e74c8e0dea)
+# Main Screen
+<img src="https://github.com/user-attachments/assets/85cc3a4c-9fe1-410a-babb-7f2c56ae9ccd" alt="main_screen-portrait" width="350" height="700">
+
